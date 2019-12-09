@@ -1,0 +1,28 @@
+.letter {
+	background: #E2E2F0;
+	display: inline-block;
+	width: 10%;
+	margin: 5px;
+	padding-bottom: 20px;
+}
+
+#finallist {
+	margin-left: 20px;
+	font-size: 18pt;
+	font-style: normal;
+	font-weight: normal;
+}
+
+.glyph, .lettername, .ipa {
+	text-align: center;
+}
+
+.glyph {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.lettername, .ipa {
+	font-size: 20pt;
+	color: #555;
+}
