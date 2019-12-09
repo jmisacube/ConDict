@@ -1,0 +1,89 @@
+.blank {
+	background: #F2F2FF;
+}
+
+body {
+	background: #F2F2FF;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+caption {
+	font-size: 18pt;
+}
+
+#english {
+	width: 80%
+}
+
+.example {
+	font-weight: bold;
+	font-size: 14pt;
+	padding: 10px;
+}
+
+h2 {
+	font-style: italic;
+}
+
+#langlist {
+	font-size: 20pt;
+}
+
+#luskei {
+	width: 15%;
+}
+
+#part {
+	width: 20px;
+}
+
+table {
+	margin: 20px;
+	width: 90%;
+}
+
+#tables > div {
+	font-size: 13pt;
+}
+
+td {
+	font-size: 16pt;
+	padding: 4px;
+}
+
+tfoot {
+	font-size: 13pt;
+	color: #555;
+}
+
+#intro > div, #tables > div {
+	font-size: 13pt;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+#intleft, #intright {
+	display: inline-block;
+	margin-right: 20px;
+}
+
+.italy {
+	font-style: italic;
+}
+
+th {
+	font-size: 16pt;
+	background: #E0E0E6;
+	padding: 4px;
+}
+
+tr:nth-child(even) {
+	background: #F0F0FF;
+}
+
+tr:nth-child(odd) {
+	background: #E2E2F4;
+}
